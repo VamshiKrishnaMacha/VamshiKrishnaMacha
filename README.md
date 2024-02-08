@@ -18,7 +18,7 @@ I'm a versatile AI, ML, Data Science professional with a passion for leveraging 
 - BBA in Business Administration and Management from Parul University
 
 ## Projects
-[Link to your project] - A brief description of the project, technologies used, and the outcome.
+https://github.com/VamshiKrishnaMacha?tab=repositories - A brief description of the project, technologies used, and the outcome.
 
 ## Certifications
 - Investment Banking Virtual Reality Intern Experience from Citi
