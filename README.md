@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Macha</h1>
-<h3 align="center">"The Best AI, ML, Data Science Professional in the World | Global Trainee in Finance | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Expert in Analytics, Finance, International Business"</h3>
+<h3 align="center">"A Leading Expert in AI, ML, and Data Science | Global Finance Trainee | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Specialist in Analytics, Finance, and International Business
+"</h3>
 
 <p align="center">
     <img alt="Coder GIF" height="250" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
