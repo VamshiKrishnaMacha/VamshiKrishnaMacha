@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Macha</h1>
 <h3 align="center">"The Best AI, ML, Data Science Professional in the World | Global Trainee in Finance | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Expert in Analytics, Finance, International Business"</h3>
 
-<p align="center">![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/VamshiKrishnaMacha/VamshiKrishnaMacha/assets/157317500/c688c487-d5ad-48c5-af15-c49a7be8e06a)
-
-    <img alt="Coder GIF" height="250" width="350" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<p align="center">
+    <img alt="Coder GIF" height="250" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 <p align="left">
