@@ -2,7 +2,7 @@
 <h3 align="center">"The Best AI, ML, Data Science Professional in the World | Global Trainee in Finance | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Expert in Analytics, Finance, International Business"</h3>
 
 <p align="center">
-    <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+    <img alt="Coder GIF" height="250" width="350" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 </p>
 
 <p align="left">
