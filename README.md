@@ -1,30 +1,3 @@
-Here is the updated profile with the image of a person or cartoon coding added:
-
-```html
-<h1 align="center">Hi 👋, I'm Vamshi Krishna Macha</h1>
-<h3 align="center">"The Best AI, ML, Data Science Professional in the World | Global Trainee in Finance | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Expert in Analytics, Finance, International Business"</h3>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=vamshikrishnamacha&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrishnamacha" />
-</p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vamshikrishnamacha" alt="vamshikrishnamacha" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/macha_vamshi" target="blank">
-        <img src="https://img.shields.io/twitter/follow/macha_vamshi?logo=twitter&style=for-the-badge" alt="macha_vamshi" />
-    </a>
-</p>
-
-- 🔭 I’m currently working on a Data Science Internship at Cognifyz Technologies ["Culinary Insights Engine: A Data
-
-Here's the updated profile with the added image of a person or cartoon coding and rephrased to highlight being the best in the world:
-
-```html
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Macha</h1>
 <h3 align="center">"The Best AI, ML, Data Science Professional in the World | Global Trainee in Finance | NSO Gold Medalist | i-Hub Innovator | Entrepreneur | MBA | Business Analyst | Expert in Analytics, Finance, International Business"</h3>
 
@@ -135,6 +108,3 @@ Here's the updated profile with the added image of a person or cartoon coding an
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshikrishnamacha&" alt="vamshikrishnamacha" />
 </p>
-```
-
-This incorporates the cartoon coding GIF and highlights your profile as the best in the world. Let me know if you need
