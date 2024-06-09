@@ -21,13 +21,13 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on a Data Science Internship at Cognifyz Technologies ["Culinary Insights Engine: A Data-Driven Approach to Predictive Modeling and Consumer Preference Analytics"](https://github.com/VamshiKrishnaMacha/DSIntern_RestaurantAnalysis_CognifyzTech)
+- 🔭 I completed my Data Science Internship at Oasis Infobyte in April 2024, where I led diverse projects in data analysis and machine learning.
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch for deep learning, Apache Spark for big data processing, and AWS services for cloud-based machine learning solutions.**
 
 - 📫 How to reach me **2206142000596@paruluniversity.ac.in**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vamshi-krishna-macha-56b9181b4/](https://www.linkedin.com/in/vamshi-krishna-macha-56b9181b4/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-macha-56b9181b4/)
 
 - ⚡ Fun fact **Despite my deep dive into the world of AI and Machine Learning, I still find the unpredictable outcomes of neural networks fascinating. It's like they have their own 'personality', sometimes surprising even the most seasoned data scientists with their insights!"**
 
@@ -35,6 +35,15 @@
 <p align="left">
     <a href="https://twitter.com/macha_vamshi" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macha_vamshi" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/vamshi-krishna-macha-56b9181b4" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.kaggle.com/vamshikrishnamacha" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    </a>
+    <a href="https://github.com/VamshiKrishnaMacha" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
 </p>
 
@@ -95,16 +104,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshikrishnamacha&show_icons=true&locale=en&layout=compact" alt="vamshikrishnamacha" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamshikrishnamacha&show_icons=true&locale=en" alt="vamshikrishnamacha" /></p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshikrishnamacha&" alt="vamshikrishnamacha" />
-</p>
+        <img src="https://www.vector
